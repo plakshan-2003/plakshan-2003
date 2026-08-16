@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **web based recruitment management system**
 
-- 🌱 I’m currently learning **java, DevOps, Docker ,react and Spring Boot**
+-  I’m currently learning **java, DevOps, Docker ,react and Spring Boot**
 
 - 👯 I’m looking to collaborate on **Full stack web applications**
 
